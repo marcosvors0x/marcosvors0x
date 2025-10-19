@@ -8,5 +8,5 @@
 </div>  
 
 Estrutura do repositório
-/academicos -> Projetos Acadêmicos
-/pessoal -> Projetos Pessoais
+/academicos -> Projetos Acadêmicos  
+/pessoal -> Projetos Pessoais  
