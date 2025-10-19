@@ -7,6 +7,6 @@
   </a>
 </div>  
 
-Estrutura do repositório
+Estrutura do repositório  
 /academicos -> Projetos Acadêmicos  
 /pessoal -> Projetos Pessoais  
